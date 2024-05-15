@@ -1,4 +1,4 @@
-m<div id="header" align="center">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400"/>
 </div>
 <div id="badges" align="center">
@@ -13,7 +13,6 @@ m<div id="header" align="center">
 
 <h1 align="center">Hi I'm Viola Wulan Az Zahro</h1>
 
-<h3 align="justify">As a developer, I am currently immersing myself in the world of frontend and backend development, expanding my expertise across a wide array of technologies. On the frontend side, I am studying HTML, CSS, Bootstrap, and JavaScript to craft visually stunning and interactive user interfaces. Leveraging frameworks like Bootstrap, I strive to create responsive designs that seamlessly adapt to various devices and screen sizes. Additionally, I utilize tools like Figma to conceptualize and prototype designs, ensuring a smooth workflow from ideation to implementation. In parallel, I am delving into backend development, where I am learning Node.js, Express, and Python to build robust and scalable server-side applications. With a focus on database management, I am using SQL and MySQL, mastering the art of querying and manipulating data to drive dynamic web experiences. Furthermore, I employ Postman to test and debug APIs, ensuring seamless communication between the frontend and backend components of my projects. My passion for problem-solving and dedication to staying abreast of industry trends drive me to push the boundaries of my capabilities and deliver exceptional experiences for users across the web.</h3>
 
 🔭 I’m currently working on [CSSMoRA UIN Walisongo](https://cssmorawalisongo.org/)
 
@@ -34,4 +33,5 @@ m<div id="header" align="center">
 ###
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=violawa&theme=radical&border_radius=1.5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=494&card_height=203show_icons=true&locale=en" alt="violawa"/></a>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=violawa&theme=radical&border_radius=1.5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=494&card_height=203"show_icons=true&locale=en" alt="violawa"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=violawa&theme=radical&border_radius=1.5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=494&card_height=203"show_icons=true&locale=en&layout=compact" alt="violawa"/></p>
+<p align="left"><a href="https://github.com/fatiharridho"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=violawa&theme=radical&layout=compact"></a></p> 
+
