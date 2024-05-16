@@ -9,10 +9,21 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=violawa&label=Profile%20views&color=0e75b6&style=flat" alt="violawa" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=violawa&label=Profile%20views&color=0e75b6&style=flat" alt="violawa"/></p>
 
 <h1 align="center">Hi I'm Viola Wulan Az Zahro</h1>
 
+<h1> Hi there! 👋</h1>
+
+Welcome to my GitHub profile! I'm on an exciting journey of becoming a Full-Stack Developer. Here's a little about me
+
+## About Me
+
+<p align="justify">I'm a passionate and motivated learner diving deep into the world of web development. My goal is to master both frontend and backend technologies to build dynamic and responsive web applications.I'm currently on an exciting path to mastering both frontend and backend technologies. This README is a snapshot of my learning process, the tools and technologies I'm using, and the projects I'm working on. Feel free to customize this description based on your personal progress, goals, and the specific technologies you are using or planning to learn. I'm always open to feedback, collaborations, and learning opportunities. Feel free to check out my repositories and get in touch!</p>
+
+Happy coding! 🚀
+
+---
 
 🔭 I’m currently working on [CSSMoRA UIN Walisongo](https://cssmorawalisongo.org/)
 
