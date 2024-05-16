@@ -31,7 +31,7 @@
 
 ---
 ###
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=violawa&theme=radical&border_radius=1.5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=494&card_height=203show_icons=true&locale=en" alt="violawa"/></a>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=violawa&theme=radical&border_radius=1.5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=494&card_height=203"show_icons=true&locale=en" alt="violawa"/></p>
 <p align="left"><a href="https://github.com/fatiharridho"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=violawa&theme=radical&layout=compact"></a></p> 
-
