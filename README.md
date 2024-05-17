@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm on an exciting journey of becoming a Full-Stac
 
 ## About Me
 
-<p align="justify">I'm a passionate and motivated learner diving deep into the world of web development. My goal is to master both frontend and backend technologies to build dynamic and responsive web applications.I'm currently on an exciting path to mastering both frontend and backend technologies. This README is a snapshot of my learning process, the tools and technologies I'm using, and the projects I'm working on. Feel free to customize this description based on your personal progress, goals, and the specific technologies you are using or planning to learn. I'm always open to feedback, collaborations, and learning opportunities. Feel free to check out my repositories and get in touch!</p>
+<p align="justify">I'm a passionate and motivated learner diving deep into the world of web development. My goal is to master both frontend and backend technologies to build dynamic and responsive web applications.I'm currently on an exciting path to mastering both frontend and backend technologies. This README is a snapshot of my learning process, the tools and technologies I'm using, and the projects I'm working on. Feel free to check out my repositories and get in touch!</p>
 
 Happy coding! 🚀
 
