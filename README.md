@@ -36,8 +36,6 @@ Happy coding! 🚀
 
 ## Music
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31flfhcyr5ompehvnh5ffgibohli&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=005a9e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31flfhcyr5ompehvnh5ffgibohli&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=006f9e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31flfhcyr5ompehvnh5ffgibohli&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=00518f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## Quotes
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
