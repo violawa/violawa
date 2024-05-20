@@ -43,6 +43,5 @@ Happy coding! 🚀
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## My Streak
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=violawa&theme=algolia&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak"/></a>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=violawa&theme=algolia&border_radius=1.5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=494&card_height=203"show_icons=true&locale=en" alt="violawa"/></p>
 <p align="left"><a href="https://github.com/violawa"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=violawa&theme=algolia&layout=compact"></a></p> 
